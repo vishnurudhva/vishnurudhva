@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... ClefBook
-- 🌱 I’m currently learning ... Angular
-- 👯 I’m looking to collaborate on ... Backend Development
+- 🌱 I’m currently learning ... Django, Vue
+- 👯 I’m looking to collaborate on ... Backend Development and MacOS Development
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Instagram](https://www.instagram.com/vishnu_rudhva)
+- 📫 How to reach me: ... [Instagram](https://www.instagram.com/vishnurudhva)
